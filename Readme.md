@@ -63,3 +63,8 @@ CSS:
 Enhances the appearance and ensures a visually appealing interface.
 JavaScript:
 Powers the timer, ensuring the countdown updates in real-time and behaves correctly.
+![Screenshot 2024-12-04 153042](https://github.com/user-attachments/assets/e2991284-ee60-413b-ae6e-1cda2ccb52b2)
+
+![Screenshot 2024-12-04 153106](https://github.com/user-attachments/assets/36a23d65-00bf-47d6-a282-4c2acf8778bd)
+![Screenshot 2024-12-04 153118](https://github.com/user-attachments/assets/c477e004-fcb1-4dc8-be1a-2fa79b29b842)
+
